@@ -863,3 +863,7 @@ table.table-info-mobile tr:last-child td span:nth-child(2) {
     margin-top: 30px;
   }
 }
+
+.section-players__slider-buttons-mobile {
+  display: none;
+}
