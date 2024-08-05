@@ -865,5 +865,5 @@ table.table-info-mobile tr:last-child td span:nth-child(2) {
 }
 
 .section-players__slider-buttons-mobile {
-  display: none;
+  display: none !important;
 }
